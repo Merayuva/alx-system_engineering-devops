@@ -1,3 +1,1 @@
-
-#!/bin/bash
-pwd
+#!/bin/bashscript that print the absolute path of current working directory
