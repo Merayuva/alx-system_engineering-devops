@@ -1,2 +1,2 @@
 #!/bin/bash
-shell basics task
+script that print current working directory
